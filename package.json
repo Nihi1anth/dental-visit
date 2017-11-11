@@ -1,0 +1,8 @@
+{
+  "name": "dental-visit",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Nihi1anth/dental-visit.git",
+  "author": "Nihi1anth <ishaltbecome@gmail.com>",
+  "license": "MIT"
+}
